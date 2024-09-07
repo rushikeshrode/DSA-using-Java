@@ -18,3 +18,17 @@ Queue using Stack <br>
 Dynamic Queue <br>
 Binary Search <br>
 Recursive Binary Search <br>
+
+<h4> Sorting Algorithms <h4><br>
+Bubble Sort <br>
+Cyclic Sort <br>
+Insertion Sort <br>
+Selection Sort <br>
+Merge Sort <br>
+Quick Sort <br><br>
+
+Heap Structure <br>
+
+<h4> Others <h4>
+Pascal's Triangle <br>
+StringBuilder in Details <br>

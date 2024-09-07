@@ -1,4 +1,4 @@
-package com.rushikesh.BinarySearch;
+// package com.rushikesh.BinarySearch;
 
 public class Recursive {
     public static void main(String[] args) {
