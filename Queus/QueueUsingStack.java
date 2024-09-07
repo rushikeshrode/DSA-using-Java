@@ -1,4 +1,4 @@
-package com.rushikesh.StackAndQueus.Queus;
+// package com.rushikesh.StackAndQueus.Queus;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.rushikesh.StackAndQueus.Queus;
+// package com.rushikesh.StackAndQueus.Queus;
 
 public class Main {
     public static void main(String[] args) {
