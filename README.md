@@ -8,6 +8,6 @@ Note : These are self written code and does not belong to any publication. Imple
 
 Content :
 
-Singly Linked List
-Doubly Linked List
-Circular Linked List
+Singly Linked List <br>
+Doubly Linked List <br>
+Circular Linked List <br>
