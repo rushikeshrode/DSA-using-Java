@@ -19,7 +19,7 @@ Dynamic Queue <br>
 Binary Search <br>
 Recursive Binary Search <br>
 
-<h4> Sorting Algorithms <h4><br>
+<h4> Sorting Algorithms <h4>
 Bubble Sort <br>
 Cyclic Sort <br>
 Insertion Sort <br>
