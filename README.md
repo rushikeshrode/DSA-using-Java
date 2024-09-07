@@ -1,4 +1,4 @@
-# DSA
+# DSA using JAVA
 
 Auther : Rushikesh Rode
 
