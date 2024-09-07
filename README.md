@@ -6,9 +6,9 @@ Data Structure & Algorithm assignment & implementation using Java.
 
 This is Data Structure implementations using Java course of Master in Computer Application (MCA).
 
-Note : These are self written code and does not belong to any publication. Implementations can differ from person to person. You can have your own implementation of Linked List, Stacks & Queues.
+Note : These are self written code and does not belong to any publication. Implementations can differ from person to person. You can have your own implementation of Linked List, Stacks & Queues. <br>
 
-<h3>  Content : <h3>
+ Content : 
 
 Singly Linked List <br>
 Doubly Linked List <br>
@@ -19,9 +19,9 @@ Queue <br>
 Queue using Stack <br>
 Dynamic Queue <br>
 Binary Search <br>
-Recursive Binary Search <br>
+Recursive Binary Search <br><br>
 
-<h3> Sorting Algorithms <h3>
+Sorting Algorithms
 Bubble Sort <br>
 Cyclic Sort <br>
 Insertion Sort <br>
@@ -29,8 +29,8 @@ Selection Sort <br>
 Merge Sort <br>
 Quick Sort <br><br>
 
-Heap Structure <br>
+Heap Structure <br><br>
 
-<h3> Others <h3>
+Others<br>
 Pascal's Triangle <br>
 StringBuilder in Details <br>
