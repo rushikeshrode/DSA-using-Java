@@ -13,3 +13,6 @@ Doubly Linked List <br>
 Circular Linked List <br>
 Stack <br>
 Dynamic Stack <br>
+Queue <br>
+Queue using Stack <br>
+Dynamic Queue <br>
