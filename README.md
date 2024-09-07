@@ -2,11 +2,13 @@
 
 Auther : Rushikesh Rode
 
+Data Structure & Algorithm assignment & implementation using Java.
+
 This is Data Structure implementations using Java course of Master in Computer Application (MCA).
 
 Note : These are self written code and does not belong to any publication. Implementations can differ from person to person. You can have your own implementation of Linked List, Stacks & Queues.
 
-Content :
+<h3> Content : <h3>
 
 Singly Linked List <br>
 Doubly Linked List <br>
