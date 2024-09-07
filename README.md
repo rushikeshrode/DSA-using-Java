@@ -11,3 +11,5 @@ Content :
 Singly Linked List <br>
 Doubly Linked List <br>
 Circular Linked List <br>
+Stack <br>
+Dynamic Stack <br>
