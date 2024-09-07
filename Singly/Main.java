@@ -1,4 +1,4 @@
-package com.rushikesh.LL.Singly;
+// package com.rushikesh.LL.Singly;
 
 public class Main {
     public static void main(String[] args) {
