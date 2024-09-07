@@ -2,5 +2,8 @@
 
 Auther : Rushikesh Rode
 
-Content :
+Content : 
+
+1) Linked List
+2) DLL
 
