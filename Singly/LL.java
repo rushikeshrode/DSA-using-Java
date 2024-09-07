@@ -1,4 +1,3 @@
-package com.rushikesh.LL.Singly;
 
 public class LL {
 
